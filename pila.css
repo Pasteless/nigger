@@ -117,7 +117,7 @@
 
 :root .embedFull-2tM8-- {
   border: none;
-  margin-left: 10px;
+  margin-left: 100px;
   border-radius: 5px var(--border-radius) var(--border-radius) 5px;
 }
 :root .embedFull-2tM8--:after {
